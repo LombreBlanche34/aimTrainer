@@ -1,4 +1,3 @@
 # aimTrainer
-Very simple aim trainer
-To compile :
-tsc --watch
+Very simple aim trainer <br>
+To compile : tsc --watch
