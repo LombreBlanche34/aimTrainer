@@ -126,6 +126,7 @@ function start_game() {
     timer = new Timer(temps, 1);
     timer.start();
     score = 0;
+    nb_click = 0;
     update();
 }
 // Boucle du jeux
